@@ -34,6 +34,11 @@ roslaunch kitchen_planning gazebo.launch
 ```python
 rosrun kitchen_bot KitchenPlan
 ```
+### Plotting UR5 joint angles with RQT
+
+```python
+roslaunch kitchen_bot jointRQT.launch
+```
 ## Contributors
 
 - Rahul Karanam - 118172507
