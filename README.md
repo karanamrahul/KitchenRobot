@@ -28,7 +28,7 @@ rosrun kitchen_bot IKSolver
 ### Pick and Place Food objects
 - Launch UR5 Robot onto kitchen gazebo world 
 ```python
-roslaunch kitchen_planning gazebo.launch
+roslaunch kitchen_planning demo_gazebo.launch
 ```
 - Run the below script for planning the robot to pick food objects and place them in a plate
 ```python
