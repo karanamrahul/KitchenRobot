@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/starfleeet-robotics/662/devel/lib/python3/dist-packages",
+        "/home/starfleeet-robotics/ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/starfleeet-robotics/662/devel/lib/python3/dist-packages",
+        "/home/starfleeet-robotics/ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

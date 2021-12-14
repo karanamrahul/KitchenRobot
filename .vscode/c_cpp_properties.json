@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/starfleeet-robotics/662/devel/include/**",
+        "/home/starfleeet-robotics/ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/starfleeet-robotics/662/src/robotiq/robotiq_gazebo/include/**",
+        "/home/starfleeet-robotics/662/src/universal_robot/ur_kinematics/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
