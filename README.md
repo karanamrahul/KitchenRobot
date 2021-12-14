@@ -45,7 +45,6 @@ Presentation: https://youtu.be/dOgkYswC5M4 \
 Simulation Demo: https://youtu.be/OZsbqnFeqTQ \
 IK Validation: https://youtu.be/VXxi4hUbNsw \
 Workspace Analysis: https://youtu.be/Q8qiyR_ZVNs \
-RViz Forward Kinematics: https://youtu.be/3U3yQqhbA_E
 
 ## Contributors
 
